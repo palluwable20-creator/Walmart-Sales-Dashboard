@@ -42,4 +42,4 @@ Time-based sales analysis using a Calendar table.
 
 6.Screenshot:-
 Show what the dashboard look like.
- Example:- https://github.com/palluwable20-creator/Walmart-Sales-Dashboard/blob/main/Dashboard%20Screen.png
+Example:- https://github.com/palluwable20-creator/Walmart-Sales-Dashboard/blob/main/Dashboard%20Screen.png
